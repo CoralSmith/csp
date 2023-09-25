@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "source": "A",
+    "topic": "orange",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "2",
+    "source": "A",
+    "topic": "green",
+    "type": "MC",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "3",
+    "source": "B",
+    "topic": "teal",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "4",
+    "source": "B",
+    "topic": "banana",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "5",
+    "source": "B",
+    "topic": "kiwi",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "6",
+    "source": "B",
+    "topic": "blue",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "7",
+    "source": "B",
+    "topic": "orange",
+    "type": "MC",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "8",
+    "source": "A",
+    "topic": "pink",
+    "type": "FT",
+    "metadata": ["slow", "web", "another"]
+  },
+  {
+    "id": "9",
+    "source": "A",
+    "topic": "black",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "10",
+    "source": "A",
+    "topic": "grey",
+    "type": "FT",
+    "metadata": ["fast", "voice", "another"]
+  },
+  {
+    "id": "11",
+    "source": "B",
+    "topic": "red",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "12",
+    "source": "A",
+    "topic": "purple",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "13",
+    "source": "B",
+    "topic": "orange",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "14",
+    "source": "A",
+    "topic": "green",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "15",
+    "source": "A",
+    "topic": "red",
+    "type": "FT",
+    "metadata": ["slow", "web", "fish"]
+  },
+  {
+    "id": "16",
+    "source": "A",
+    "topic": "red",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "17",
+    "source": "A",
+    "topic": "green",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "18",
+    "source": "A",
+    "topic": "yellow",
+    "type": "FT",
+    "metadata": ["slow", "web", "another"]
+  },
+  {
+    "id": "19",
+    "source": "A",
+    "topic": "orange",
+    "type": "FT",
+    "metadata": ["fast", "web", "another"]
+  },
+  {
+    "id": "20",
+    "source": "A",
+    "topic": "blue",
+    "type": "FT",
+    "metadata": ["slow", "fish", "chips"]
+  }
+]
